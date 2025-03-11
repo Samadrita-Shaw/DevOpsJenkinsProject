@@ -1,6 +1,6 @@
-🚀 Automating Pull Requests Using Jenkins
+# 🚀 Automating Pull Requests Using Jenkins
 
-📌 Project Overview
+## 📌 Project Overview
 This project demonstrates how to automate the process of **building, testing, and deploying** pull requests (PRs) using **Jenkins**. The pipeline automatically triggers whenever a new PR is created or merged in the GitHub repository.
 
 ## 🛠️ Technologies Used
