@@ -25,7 +25,7 @@ The Jenkins pipeline consists of four stages:
 4. **Deploy** → Deploys the application (simulated).
 
 ## 📌 Author
-**Samadrita Shaw**
+
 
 ---
 
